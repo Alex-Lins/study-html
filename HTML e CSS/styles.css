@@ -1,16 +1,27 @@
-
-h1{
-
-    color: white;
-    background-color: black;
-    border: red solid
-    ;
+body {
+  background-color: black;
 }
-h2{
-
-    color: white;
-    background-color: black;
-    border: red solid
-    ;
-
+h1 {
+  color: white;
+  background-color: black;
+  border: red solid;
 }
+h2 {
+  color: white;
+  background-color: black;
+  border: red solid;
+}
+a {
+  color: red;
+  
+}
+h4 {
+  color: white;
+}
+p {
+  color: white;
+}
+q {
+  color: white;
+}
+.História{ border-color: red solid; }
