@@ -3,8 +3,8 @@ body {
 }
 h1 {
   color: white;
-  background-color: black;
-  border: red solid;
+  background-color:rgb(148, 10, 10);
+  border: white solid;
 }
 h2 {
   color: white;
@@ -26,6 +26,13 @@ q {
 }
 .História{ border-color: red solid; }
 input { 
-  color: black;
+  color: rgb(255, 255, 255);
   background-color:red;
 } 
+input:hover{
+  color: black;
+  background-color: yellow;
+}
+div>a:hover{
+  color: black;
+  background-color: blue;
