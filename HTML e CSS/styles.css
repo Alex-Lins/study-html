@@ -1,31 +1,40 @@
 body {
+  text-align: center;
   background-color: black;
 }
 h1 {
+  text-align: center;
+  text-shadow: 2px 2px 0px black;
   font-family: 'Anton', sans-serif;
+  font-size: ;
   color: white;
   background-color:rgb(148, 10, 10);
-  border: white solid; height: 40px; width: 370px;
+  border: white solid;
 }
+.Center{
+  text-align: center;
+  text-shadow: 1px 1px 0px red;
+  text-decoration: underline;
+  font-style: italic;
+  color: white;
+  font-size: 20px;
+  width: 100vw;
+ }
+ div{
+  text-align: center;
+ }
 h2 {
+  text-align: center;
+  font-style: italic, serif;
+  font-weight:lighter;
   color: white;
   background-color: black;
-  border: red solid; height: 30px; width: 200px;
+  border: red solid;
 }
 a {
+  text-align: center;
   color: red;
-  
 }
-h4 {
-  color: white;
-}
-p {
-  color: white;
-}
-q {
-  color: white;
-}
-.História{ border-color: red solid; }
 input { 
   color: rgb(255, 255, 255);
   background-color:red;
