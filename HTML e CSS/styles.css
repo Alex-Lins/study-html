@@ -2,14 +2,15 @@ body {
   background-color: black;
 }
 h1 {
+  font-family: 'Anton', sans-serif;
   color: white;
   background-color:rgb(148, 10, 10);
-  border: white solid;
+  border: white solid; height: 40px; width: 370px;
 }
 h2 {
   color: white;
   background-color: black;
-  border: red solid;
+  border: red solid; height: 30px; width: 200px;
 }
 a {
   color: red;
